@@ -1,5 +1,3 @@
-2024, Gözde Alp, Aydın Efeler Şubesi, 56845.94
-5000, Hüsniye Serra Bosun, Aydın Şubesi, 2502.2003
 5001, Ahmet Günay, Bursa Subesi, 5511.0
 5002, Kemal Aydın, Konak Subesi, 3707.0
 5003, Veli Demir, Izmir Subesi, 4329.0
