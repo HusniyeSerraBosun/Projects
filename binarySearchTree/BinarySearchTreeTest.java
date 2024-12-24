@@ -1,9 +1,7 @@
 package binarySearchTree;
 import java.io.*;
 import java.util.*;
-import java.util.Locale;/*Double girişinde Türkiye'de bulunduğumuz için noktayı (.) kabul etmedi
-				         *sadece virgülü anladı .Derslerde hep nokta ile işlem yaptığımız için bunu
-				         *kullanmak istedim.*/
+import java.util.Locale;
 
 import binarySearchTree.BinarySearchTree.Node;
 
