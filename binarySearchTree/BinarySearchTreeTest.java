@@ -100,7 +100,6 @@ public class BinarySearchTreeTest {
 					break;
 				case 6:
 					System.out.println("Exiting...");
-					System.out.println("Have a nice day");
 					scanner.close();
 					return;
 				default:
